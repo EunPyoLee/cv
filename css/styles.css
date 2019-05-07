@@ -1,0 +1,21 @@
+body {
+  background-color: #fbf9fa;
+  margin-left : 30px;
+}
+hr {
+  border-color: #d7f7f5;
+  border-width: 5px;
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+}
+h1 {
+  color: mediumturquoise;
+}
+h3{
+  color: mediumturquoise;
+}
+.profile-pic{
+ width: 70%;
+ margin: 0;
+}
